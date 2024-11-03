@@ -1,4 +1,5 @@
 # Palavrão
+<img src="https://github.com/user-attachments/assets/a05b58be-7e62-4b3b-8ef6-9cd6d8b5430e" height="500px"></img>
 
 Palavrão! é um jogo baseado no jogo popular [“Scrabble”](https://users.cs.northwestern.edu/~robby/uc-courses/22001-2008-winter/scrabble.html) de dois jogadores baseado na formação de palavras em um tabuleiro matricial. Para iniciar o jogo cada jogador recebe 7 letras do saco de letras, o primeiro jogador coloca ao menos duas letras passando pelo quadrado central do tabuleiro, o outro deve adicionar letras adjacentes às que foram colocadas anteriormente de forma a gerar novas palavras no sentido vertical e horizontal. Em seguida as rodadas se alternam com um limite de tempo para cada jogada.
 Cada peça de letra tem um valor diferente, algumas tendo valores especiais (incluindo dois coringas) e as células do tabuleiro também podem ter pontuações especiais, como pontos extras por formar duas palavras ou palavras com determinado número de letras. Cada jogador em sua rodada pode ou adicionar letras ao tabuleiro para formar palavras, ou trocar uma ou mais letras com letras do saquinho, ou pular sua rodada.
@@ -6,6 +7,8 @@ O objetivo do jogo é formar palavras e assim ganhar pontos, ganha quem tiver ma
 No jogo original, a incidência de cada letra do saquinho é determinada com base na ocorrência de letras na língua inglesa, em nossa versão, essa quantidade será adaptada à [língua portuguesa](https://pt.wikipedia.org/wiki/Scrabble), assim como o [banco de palavras](https://www.ime.usp.br/~pf/dicios/).
 
 ## Funcionalidades
+
+<img src="https://github.com/user-attachments/assets/54626ad2-a4bf-4967-9426-5e8247a31eb2" height="500px"></img>
 
 * Do jogador:
   * Montar palavras;
@@ -63,3 +66,8 @@ No jogo original, a incidência de cada letra do saquinho é determinada com bas
 * [Rayanne Macedo](https://github.com/raiaiaia)
 * [Paulo Ricardo](https://github.com/paulorpn)
 * [Eliane Tamara](https://github.com/elianetamara)
+
+![Screenshot 2024-11-02 214418](https://github.com/user-attachments/assets/7270813d-311f-40e8-8980-0172ccd9be2b)
+![Screenshot 2024-11-02 214352](https://github.com/user-attachments/assets/a952b7e2-c295-435f-9668-18796a41933b)
+![Screenshot 2024-11-02 214055](https://github.com/user-attachments/assets/7d650e01-39f1-4ca6-8ffe-7e9292188bc4)
+
